@@ -1,0 +1,251 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "hovID",
+        "name": "GenteDelV_1",
+        "publisher": "Fabricio",
+        "tray_image_file" : "humansofv/tray_hov.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+        "image_file": "humansofv/Sticker_0.png",
+        "emojis": ["☕","🙂"]
+        },
+        {
+        "image_file": "humansofv/Sticker_1.png",
+        "emojis": ["😄","😀"]
+        },
+        {
+        "image_file": "humansofv/Sticker_2.png",
+        "emojis": ["😆","😂"]
+        },
+        {
+        "image_file": "humansofv/Sticker_3.png",
+        "emojis": ["😃", "😍"]
+        },
+        {
+        "image_file": "humansofv/Sticker_4.png",
+        "emojis": ["😭","💧"]
+        },
+        {
+        "image_file": "humansofv/Sticker_5.png",
+        "emojis": ["😍","♥"]
+        },
+        {
+        "image_file": "humansofv/Sticker_6.png",
+        "emojis": ["💔","👎"]
+        },
+        {
+        "image_file": "humansofv/Sticker_7.png",
+        "emojis": ["😍","💑"]
+        },
+        {
+        "image_file": "humansofv/Sticker_8.png",
+        "emojis": ["😘","🍪"]
+        },
+        {
+        "image_file": "humansofv/Sticker_9.png",
+        "emojis": ["🤔","😐"]
+        },
+        {
+        "image_file": "humansofv/Sticker_10.png",
+        "emojis": ["😱","😵"]
+        },
+        {
+        "image_file": "humansofv/Sticker_11.png",
+        "emojis": ["😡","😠"]
+        },
+        {
+        "image_file": "humansofv/Sticker_12.png",
+        "emojis": ["❓","🤔"]
+        },
+        {
+        "image_file": "humansofv/Sticker_14.png",
+        "emojis": ["💻","😩"]
+        },
+        {
+        "image_file": "humansofv/Sticker_15.png",
+        "emojis": ["😡","😤"]
+        },
+        {
+        "image_file": "humansofv/Sticker_16.png",
+        "emojis": ["😩","😨"]
+        }]
+    },
+    {
+        "identifier": "hov2ID",
+        "name": "GenteDelV_2",
+        "publisher": "Fabricio",
+        "tray_image_file" : "humansofv/tray_hov.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+        "image_file": "humansofv/Sticker_17.png",
+        "emojis": ["😔", "😨"]
+        },
+        {
+        "image_file": "humansofv/Sticker_18.png",
+        "emojis": ["🎉","✨"]
+        },
+        {
+        "image_file": "humansofv/Sticker_19.png",
+        "emojis": ["🤮","👎"]
+        },
+        {
+        "image_file": "humansofv/Sticker_20.png",
+        "emojis": ["🖐","🙋"]
+        },
+        {
+        "image_file": "humansofv/Sticker_21.png",
+        "emojis": ["🖐","🍿"]
+        },
+        {
+        "image_file": "humansofv/Sticker_22.png",
+        "emojis": ["🖐","🗻"]
+        },
+        {
+        "image_file": "humansofv/Sticker_23.png",
+        "emojis": ["🖐","🏞"]
+        },
+        {
+        "image_file": "humansofv/Sticker_25.png",
+        "emojis": ["🖐","🧐"]
+        },
+        {
+        "image_file": "humansofv/Sticker_26.png",
+        "emojis": ["🖐","👌🏿"]
+        },
+        {
+        "image_file": "humansofv/Sticker_27.png",
+        "emojis": ["🖐","💪🏻"]
+        },
+        {
+        "image_file": "humansofv/Sticker_28.png",
+        "emojis": ["🖐","😅"]
+        },
+        {
+        "image_file": "humansofv/Sticker_30.png",
+        "emojis": ["🖐","🙆🏻‍♀️"]
+        },
+        {
+        "image_file": "humansofv/Sticker_31.png",
+        "emojis": ["🖐","🙌🏻"]
+        },
+        {
+        "image_file": "humansofv/Sticker_32.png",
+        "emojis": ["🖐","🤔"]
+        },
+        {
+        "image_file": "humansofv/Sticker_33.png",
+        "emojis": ["🖐","🤷‍♂️"]
+        }]
+    },
+    {
+        "identifier": "skID",
+        "name": "SenoraK",
+        "publisher": "Fabricio",
+        "tray_image_file" : "senorak/tray_sk.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+        "image_file": "senorak/1.png",
+        "emojis": ["☕","🙂"]
+        },
+        {
+        "image_file": "senorak/2.png",
+        "emojis": ["😄","😀"]
+        },
+        {
+        "image_file": "senorak/3.png",
+        "emojis": ["😆","😂"]
+        },
+        {
+        "image_file": "senorak/4.png",
+        "emojis": ["😃", "😍"]
+        },
+        {
+        "image_file": "senorak/5.png",
+        "emojis": ["😭","💧"]
+        },
+        {
+        "image_file": "senorak/6.png",
+        "emojis": ["😍","♥"]
+        }]
+    },
+    {
+        "identifier": "mlID",
+        "name": "Mxlx",
+        "publisher": "Fabricio",
+        "tray_image_file" : "mxlx/tray_ml.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "mxlx/mxlx_1.png",
+            "emojis": ["👌🏿","🙂"]
+        },
+        {
+            "image_file": "mxlx/mxlx_2.png",
+            "emojis": ["🙌🏻","😀"]
+        },
+        {
+            "image_file": "mxlx/mxlx_3.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        }]
+    },
+    {
+        "identifier": "slID",
+        "name": "SleepingV",
+        "publisher": "Fabricio",
+        "tray_image_file" : "sleepingv/tray_sl.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "sleepingv/1.png",
+            "emojis": ["👌🏿","🙂"]
+        },
+        {
+            "image_file": "sleepingv/2.png",
+            "emojis": ["🙌🏻","😀"]
+        },
+        {
+            "image_file": "sleepingv/3.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/4.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/5.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/6.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/7.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/8.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        },
+        {
+            "image_file": "sleepingv/9.png",
+            "emojis": ["🤦🏻‍♂️","😂"]
+        }]
+    }]
+}
